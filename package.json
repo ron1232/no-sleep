@@ -31,6 +31,6 @@
   },
   "scripts": {
     "lint": "prettier --check src",
-    "build": "npm run lint && webpack"
+    "build": "webpack"
   }
 }
