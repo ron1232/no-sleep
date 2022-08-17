@@ -1,6 +1,6 @@
 {
-  "name": "@ron/nosleep",
-  "version": "0.0.1",
+  "name": "@ron.1563/nosleep",
+  "version": "1.0.0",
   "author": "Ron Barak",
   "license": "MIT",
   "description": "Prevent display sleep and enable wake lock in any Android or iOS web browser",
